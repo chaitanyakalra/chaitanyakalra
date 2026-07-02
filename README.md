@@ -47,9 +47,13 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitanyakalra&theme=radical" />
+![On GitHub since](https://img.shields.io/badge/On_GitHub_since-Sep_2022-181717?style=for-the-badge&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/Public_Repos-21-6C63FF?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Full--stack_%26_AI-06B6D4?style=for-the-badge)
 
-<img src="https://streak-stats.demolab.com/?user=chaitanyakalra&theme=radical&hide_border=true" alt="GitHub Streak" />
+![Shipped](https://img.shields.io/badge/Shipped-thebiohackers.co-47A248?style=for-the-badge&logo=vercel&logoColor=white)
+![Reached](https://img.shields.io/badge/Reached-2%2C000%2B_users-6C63FF?style=for-the-badge)
+![Based in](https://img.shields.io/badge/Based_in-Gurugram%2C_India-0A66C2?style=for-the-badge)
 
 </div>
 
