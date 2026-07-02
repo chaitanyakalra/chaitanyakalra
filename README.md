@@ -4,11 +4,9 @@
 
 **Software engineer at magicpin.** I build and ship every day.
 
-<br/>
 
 <!-- Bespoke avatar-snake — hand-crafted, matches my profile aesthetic -->
 
-<br/>
 <br/>
 
 <!-- Live contribution snake — auto-generated daily from my real activity (.github/workflows/snake.yml) -->
