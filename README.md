@@ -7,8 +7,6 @@
 
 <!-- Bespoke avatar-snake — hand-crafted, matches my profile aesthetic -->
 
-<br/>
-
 <!-- Live contribution snake — auto-generated daily from my real activity (.github/workflows/snake.yml) -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
