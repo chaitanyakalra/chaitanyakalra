@@ -1,8 +1,18 @@
-### Hi, I'm Chaitanya 👋
+<div align="center">
 
-Software engineer at magicpin. I build and ship every day.
+# Hi, I'm Chaitanya 👋
 
-<!-- Contribution snake — auto-generated from my GitHub activity by .github/workflows/snake.yml -->
+**Software engineer at magicpin.** I build and ship every day.
+
+<br/>
+
+<!-- Bespoke avatar-snake — hand-crafted, matches my profile aesthetic -->
+<img src="https://raw.githubusercontent.com/chaitanyakalra/chaitanyakalra/main/assets/snake.svg" width="100%" alt="Chaitanya's contribution snake" />
+
+<br/>
+<br/>
+
+<!-- Live contribution snake — auto-generated daily from my real activity (.github/workflows/snake.yml) -->
 <picture>
   <source media="(prefers-color-scheme: dark)"
           srcset="https://raw.githubusercontent.com/chaitanyakalra/chaitanyakalra/output/github-snake-dark.svg" />
@@ -11,3 +21,5 @@ Software engineer at magicpin. I build and ship every day.
   <img alt="github contribution snake animation"
        src="https://raw.githubusercontent.com/chaitanyakalra/chaitanyakalra/output/github-snake.svg" />
 </picture>
+
+</div>
