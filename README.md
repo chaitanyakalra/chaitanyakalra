@@ -7,7 +7,6 @@
 <br/>
 
 <!-- Bespoke avatar-snake — hand-crafted, matches my profile aesthetic -->
-<img src="https://raw.githubusercontent.com/chaitanyakalra/chaitanyakalra/main/assets/snake.svg" width="100%" alt="Chaitanya's contribution snake" />
 
 <br/>
 <br/>
