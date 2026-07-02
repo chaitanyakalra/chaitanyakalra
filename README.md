@@ -31,16 +31,13 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+**Languages** &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-*(swap these for whatever's actually in your stack — this is just the starter pack)*
+**Frontend** &nbsp; ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**Backend & AI** &nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Data & Cloud** &nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -49,19 +46,17 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 ### 📊 The receipts
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitanyakalra&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyakalra&layout=compact&theme=radical&hide_border=true" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyakalra&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitanyakalra&theme=radical" />
+
+<img src="https://streak-stats.demolab.com/?user=chaitanyakalra&theme=radical&hide_border=true" alt="GitHub Streak" />
+
 </div>
 
 ---
 
 ### 🐍 I like snakes (yes, it's alive)
 
-<!-- Bespoke avatar-snake — hand-crafted, matches my profile aesthetic -->
 <!-- Live contribution snake — auto-generated daily from my real activity (.github/workflows/snake.yml) -->
 <div align="center">
 <picture>
@@ -74,17 +69,5 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 </picture>
 
 *It eats my contribution graph one green square at a time. No, I don't feed it. It just knows.*
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's talk shop
-
-If it involves code, coffee, or chaotic production incidents — I'm in.
-
-![Profile Views](https://komarev.com/ghpvc/?username=chaitanyakalra&color=6C63FF&style=flat-square&label=Profile+Views)
 
 </div>
