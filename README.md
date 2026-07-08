@@ -27,10 +27,6 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 ### 🛠️ Tools of the trade
 
-<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse;">
-<tr style="border:none;">
-<td width="65%" valign="top" style="border:none;">
-
 **Languages** &nbsp; `JavaScript / TypeScript` `Python` `C++` `SQL (MySQL)`
 
 **Frontend** &nbsp; `React` `Next.js` `Vite` `Tailwind CSS`
@@ -43,16 +39,15 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 **Tools** &nbsp; `Git` `Postman` `Jest` `Redis` `Nginx` `MongoDB Atlas`
 
-</td>
-<td width="35%" align="center" valign="middle" style="border:none;">
+<br/>
+
+<div align="center">
 
 <img src="./assets/running-emote.png" width="180" alt="Pixel avatar overwhelmed by tools" />
 
 <p><strong>I can't learn more tools</strong></p>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 ### 🐍 I like snakes (yes, it's alive)
