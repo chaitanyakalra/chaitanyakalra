@@ -47,10 +47,6 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=chaitanyakalra&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
 [![Profile views](https://komarev.com/ghpvc/?username=chaitanyakalra&style=for-the-badge&color=6C63FF)](https://github.com/chaitanyakalra)
 
 </div>
