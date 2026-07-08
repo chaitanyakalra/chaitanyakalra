@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="./assets/running-emote.gif" width="150" alt="Walking pixel avatar" />
+<img src="./assets/running-emote.gif" width="170" alt="Pixel avatar typing through it all" />
 
 <br/>
 
