@@ -47,6 +47,10 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 <div align="center">
 
+<img src="./assets/streak.svg" alt="GitHub streak" />
+
+<br/>
+
 [![Profile views](https://komarev.com/ghpvc/?username=chaitanyakalra&style=for-the-badge&color=6C63FF)](https://github.com/chaitanyakalra)
 
 </div>
