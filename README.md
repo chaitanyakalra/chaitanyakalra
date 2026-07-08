@@ -27,7 +27,7 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 ### 🛠️ Tools of the trade
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="65%" valign="top">
 
@@ -55,6 +55,7 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 </table>
 
 ---
+
 ### 🐍 I like snakes (yes, it's alive)
 
 <!-- Live contribution snake — auto-generated daily from my real activity (.github/workflows/snake.yml) -->
