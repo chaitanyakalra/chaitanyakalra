@@ -47,7 +47,18 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=chaitanyakalra&theme=radical&hide_border=true" alt="GitHub Streak" />
+[![GitHub followers](https://img.shields.io/github/followers/chaitanyakalra?style=for-the-badge&logo=github&label=Followers&color=6C63FF)](https://github.com/chaitanyakalra?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/chaitanyakalra?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Stars&color=FF5C8A)](https://github.com/chaitanyakalra?tab=repositories)
+[![Profile views](https://komarev.com/ghpvc/?username=chaitanyakalra&style=for-the-badge&color=6C63FF)](https://github.com/chaitanyakalra)
+
+<br/>
+
+[![Work Activity](https://img.shields.io/badge/Work%20Activity-private%20mirror-2EA44F?style=for-the-badge&logo=github)](https://github.com/chaitanyakalra/work-activity)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chaitanyakalra.me-6C63FF?style=for-the-badge&logo=vercel)](https://chaitanyakalra.me)
+
+<br/>
+
+<sub>Public GitHub + private work mirror activity, without relying on the flaky streak-stats API.</sub>
 
 </div>
 
