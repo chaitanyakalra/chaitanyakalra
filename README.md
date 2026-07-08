@@ -29,17 +29,19 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 ### 🛠️ Tools of the trade
 
-<p align="right"><strong>I can't learn more tools</strong></p>
+<img align="right" src="./assets/tools-overload.gif" width="260" hspace="72" alt="Pixel avatar overwhelmed by tools" />
 
-<img align="right" src="./assets/running-emote.png" width="220" hspace="48" alt="Pixel avatar overwhelmed by tools" />
+**Languages** &nbsp; `JavaScript / TypeScript` `Python` `C++` `SQL (MySQL)`
 
-**Languages** &nbsp; ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+**Frontend** &nbsp; `React` `Next.js` `Vite` `Tailwind CSS`
 
-**Frontend** &nbsp; ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+**Backend** &nbsp; `Node.js` `Express.js` `REST APIs` `FastAPI` `Microservices`
 
-**Backend & AI** &nbsp; ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+**AI / ML** &nbsp; `Generative AI` `RAG Pipelines` `OpenAI API` `Gemini API` `MCP Protocol` `Vector DBs (Pinecone)`
 
-**Data & Cloud** &nbsp; ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Cloud / Infra** &nbsp; `AWS (EC2, S3, DynamoDB, API Gateway)` `Docker` `GitHub Actions CI/CD` `Vercel` `Render`
+
+**Tools** &nbsp; `Git` `Postman` `Jest` `Redis` `Nginx` `MongoDB Atlas`
 
 <br clear="right"/>
 
