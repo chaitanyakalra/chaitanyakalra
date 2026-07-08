@@ -43,7 +43,7 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 <div align="center">
 
-<img src="./assets/side-scroll-journey-transparent.png" alt="Pixel avatar side-scrolling through the tool stack" />
+<img src="./assets/side-scroll-journey-transparent.png" width="520" alt="Pixel avatar side-scrolling through the tool stack" />
 
 <p><strong>I can't learn more tools</strong></p>
 
