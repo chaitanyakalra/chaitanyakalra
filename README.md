@@ -27,9 +27,9 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 ### 🛠️ Tools of the trade
 
-<table border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="65%" valign="top">
+<table border="0" cellspacing="0" cellpadding="0" style="border:none; border-collapse: collapse;">
+<tr style="border:none;">
+<td width="65%" valign="top" style="border:none;">
 
 **Languages** &nbsp; `JavaScript / TypeScript` `Python` `C++` `SQL (MySQL)`
 
@@ -39,12 +39,12 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 **AI / ML** &nbsp; `Generative AI` `RAG Pipelines` `OpenAI API` `Gemini API` `MCP Protocol` `Vector DBs (Pinecone)`
 
-**Cloud / Infra** &nbsp; `AWS (EC2, S3, DynamoDB, API Gateway)` `Docker` `GitHub Actions CI/CD` `Vercel` `Render`
+**Cloud / Infra** &nbsp; `AWS (EC2, S3, DynamoDB, API Gateway)` `Docker` `Kubernetes` `Kafka` `GitHub Actions CI/CD` `Vercel` `Render`
 
 **Tools** &nbsp; `Git` `Postman` `Jest` `Redis` `Nginx` `MongoDB Atlas`
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="35%" align="center" valign="middle" style="border:none;">
 
 <img src="./assets/running-emote.png" width="180" alt="Pixel avatar overwhelmed by tools" />
 
@@ -55,7 +55,6 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 </table>
 
 ---
-
 ### 🐍 I like snakes (yes, it's alive)
 
 <!-- Live contribution snake — auto-generated daily from my real activity (.github/workflows/snake.yml) -->
