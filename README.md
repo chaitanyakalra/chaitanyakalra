@@ -25,13 +25,11 @@ role: SDE-1 Intern @ magicpin — full-stack & AI engineer by trade
 side_quest: built thebiohackers.co from scratch (2k+ users)
 ```
 
----
-
 ### 🛠️ Tools of the trade
 
-<p align="right"><strong>I can't learn more tools</strong></p>
-
-<img align="right" src="./assets/running-emote.png" width="220" hspace="72" alt="Pixel avatar overwhelmed by tools" />
+<table>
+<tr>
+<td width="65%" valign="top">
 
 **Languages** &nbsp; `JavaScript / TypeScript` `Python` `C++` `SQL (MySQL)`
 
@@ -45,10 +43,18 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 **Tools** &nbsp; `Git` `Postman` `Jest` `Redis` `Nginx` `MongoDB Atlas`
 
-<br clear="right"/>
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="./assets/running-emote.png" width="180" alt="Pixel avatar overwhelmed by tools" />
+
+<p><strong>I can't learn more tools</strong></p>
+
+</td>
+</tr>
+</table>
 
 ---
-
 ### 🐍 I like snakes (yes, it's alive)
 
 <!-- Live contribution snake — auto-generated daily from my real activity (.github/workflows/snake.yml) -->
