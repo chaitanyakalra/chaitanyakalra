@@ -43,20 +43,6 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 ---
 
-### 📊 The receipts
-
-<div align="center">
-
-<img src="./assets/streak.svg" alt="GitHub streak" />
-
-<br/>
-
-[![Profile views](https://komarev.com/ghpvc/?username=chaitanyakalra&style=for-the-badge&color=6C63FF)](https://github.com/chaitanyakalra)
-
-</div>
-
----
-
 ### 🐍 I like snakes (yes, it's alive)
 
 <!-- Live contribution snake — auto-generated daily from my real activity (.github/workflows/snake.yml) -->
