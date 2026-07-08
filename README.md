@@ -4,7 +4,7 @@
 
 ### Software Engineer &nbsp;|&nbsp; Trying to reduce my screen time, apparently.
 
-<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Turning+coffee+into+commits+%E2%98%95%EF%B8%8F%F0%9F%92%BB;Building+RAG+pipelines+that+actually+work+%F0%9F%A7%A0;Shipped+thebiohackers.co+to+2%2C000%2B+users+%F0%9F%9A%80;Currently+debugging+production+(again)+%F0%9F%94%A5" alt="Typing SVG" /> -->
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Turning+coffee+into+commits+%E2%98%95%EF%B8%8F%F0%9F%92%BB;Building+RAG+pipelines+that+actually+work+%F0%9F%A7%A0;Shipped+thebiohackers.co+to+2%2C000%2B+users+%F0%9F%9A%80;Currently+debugging+production+(again)+%F0%9F%94%A5" alt="Typing SVG" /> fd-->
 
 <!-- <br/> -->
 
