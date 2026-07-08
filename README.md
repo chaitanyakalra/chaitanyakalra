@@ -8,6 +8,14 @@
 
 <br/>
 
+**Typing through it all..**
+
+<br/>
+
+<img src="./assets/running-emote.gif" width="150" alt="Walking pixel avatar" />
+
+<br/>
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://chaitanyakalra.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanykalra/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaitanyakalra7@gmail.com)
