@@ -29,7 +29,9 @@ side_quest: built thebiohackers.co from scratch (2k+ users)
 
 ### 🛠️ Tools of the trade
 
-<img align="right" src="./assets/tools-overload.gif" width="260" hspace="72" alt="Pixel avatar overwhelmed by tools" />
+<p align="right"><strong>I can't learn more tools</strong></p>
+
+<img align="right" src="./assets/running-emote.png" width="220" hspace="72" alt="Pixel avatar overwhelmed by tools" />
 
 **Languages** &nbsp; `JavaScript / TypeScript` `Python` `C++` `SQL (MySQL)`
 
