@@ -21,7 +21,7 @@
 ```yaml
 name: Chaitanya Kalra
 based_in: Gurugram, India
-role: SDE-1 Intern @ magicpin — full-stack & AI engineer by trade
+role: SDE Intern @ magicpin — full-stack & AI engineer by trade
 side_quest: built thebiohackers.co from scratch (2k+ users)
 ```
 
